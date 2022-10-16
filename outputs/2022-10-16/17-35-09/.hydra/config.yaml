@@ -1,0 +1,8 @@
+config_group_1:
+  site: api.point.net
+  port: 4433
+config_group_2:
+  username: user1
+  password: password1
+  level: 1
+debug: false

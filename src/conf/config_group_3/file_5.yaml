@@ -1,0 +1,2 @@
+server: nifi
+port: 8080

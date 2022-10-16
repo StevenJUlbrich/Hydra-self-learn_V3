@@ -1,0 +1,8 @@
+defaults:
+  - base_config
+  - config_group_1: file_1
+  - config_group_2: file_3
+  - config_group_3: file_6
+  - _self_
+  
+debug: false

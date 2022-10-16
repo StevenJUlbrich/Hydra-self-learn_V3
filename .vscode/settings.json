@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "python.linting.pylamaEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.analysis.completeFunctionParens": false,
+    "python.analysis.typeCheckingMode": "strict",
+}
