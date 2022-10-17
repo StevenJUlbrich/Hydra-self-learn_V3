@@ -5,4 +5,4 @@ defaults:
   - config_group_3: file_6
   - _self_
   
-debug: false
+debug: true

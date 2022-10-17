@@ -14,7 +14,7 @@ class Config:
     config_group_1: config_group_1_lib.ConfigGroup1 = MISSING
     config_group_2: config_group_2_lib.ConfigGroup2 = MISSING
     config_group_3: config_group_3_lib.ConfigGroup3 = MISSING
-    debug: bool = False
+    debug: bool = True
 
 
 cs = ConfigStore.instance()
